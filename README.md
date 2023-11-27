@@ -1,16 +1,15 @@
-# sipandu
+![POSTER BUNDAHARA]()
+![Uploading Untitled (1)_page-0001.jpg…]()
 
-A new Flutter project.
+Aplikasi mobile catatan anggaran keuangan "BundaHara" adalah sebuah solusi
+perangkat lunak yang dirancang untuk membantu individu dan keluarga merencanakan,
+melacak, dan mengelola keuangan dengan lebih efektif dan bijaksana. Aplikasi ini memberikan
+pengguna alat yang mudah digunakan untuk mengelola pendapatan dan pengeluaran mereka,
+mengatur tujuan finansial, dan mencapai stabilitas keuangan dalam jangka yang diinginkan.
 
-## Getting Started
+Aplikasi ini dibuat untuk memenuhi project akhir Mata Kuliah Pemrograman Mobile oleh Kelompok 3 [Program Studi S1 Pendidikan Teknologi Informasi 2022](https://pendidikan-ti.ft.unesa.ac.id) [Fakultas Teknik](https://ft.unesa.ac.id) [Universitas Negeri Surabaya](https://www.unesa.ac.id/) yang beranggotakan :
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Kelvin Dwi Pranata S        (22050974085)
+- Mahbubi                     (22050974020)
+- Agam Setiawan Ananda P      (22050974036)
+- Rafli Dias Romeo            (22050974041)
