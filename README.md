@@ -1,5 +1,6 @@
-![POSTER BUNDAHARA]()
-![Uploading Untitled (1)_page-0001.jpg…]()
+
+![](https://github.com/KelvinDWI/SiPandu2/assets/115910709/79ac5812-a6c0-471a-af18-b67b35013e92)
+
 
 Aplikasi mobile catatan anggaran keuangan "BundaHara" adalah sebuah solusi
 perangkat lunak yang dirancang untuk membantu individu dan keluarga merencanakan,
